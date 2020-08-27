@@ -1,0 +1,12 @@
+---
+title: "Partner2"
+author: "Adam Brandt"
+date: "8/27/2020"
+output: html_document
+---
+  
+  2. Lisa added HW1.rmd and HW1.html to the repo. The commit Id is 583e2fc99c92d1c1372315c2451f87d63962f43f
+  
+  3.I have knitted the owners HW1.rmd file and did not encounter any errors
+  
+  4.For github getting to know git pull and git add . and git push really well made learning github easier.Also using git status a lot to see what is happening to the files 
