@@ -1,6 +1,6 @@
   1.Lisa McDaniel llmac72
   
-  2. Lisa added HW1.rmd and HW1.html to the repo
+  2. Lisa added HW1.rmd and HW1.html to the repo. The commit Id is 583e2fc99c92d1c1372315c2451f87d63962f43f
   
   3.I have knitted the owners HW1.rmd file and did not encounter any errors
   
