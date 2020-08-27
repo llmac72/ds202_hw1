@@ -1,0 +1,7 @@
+  1.Lisa McDaniel llmac72
+  
+  2. Lisa added HW1.rmd and HW1.html to the repo
+  
+  3.I have knitted the owners HW1.rmd file and did not encounter any errors
+  
+  4.For github getting to know git pull and git add . and git push really well made learning github easier.Also using git status a lot to see what is happening to the files 
